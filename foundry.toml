@@ -8,7 +8,7 @@ remappings = [
     "@openzeppelin/contracts=lib/openzeppelin-contracts/contracts",
     "@forge-std=lib/forge-std/src/",
     "murky/=lib/murky/",
-    '@foundry-devops/=lib/foundry-devops',
+    '@foundry-devops/=lib/foundry-devops/src/',
 ]
 
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
