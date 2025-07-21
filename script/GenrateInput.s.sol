@@ -17,8 +17,8 @@ contract GenerateInput is Script {
         types[0] = "address";
         types[1] = "uint";
         whitelist[0] = "0x6CA6d1e2D5347Bfab1d91e883F1915560e09129D";
-        whitelist[1] = "0x7d09F447D2A89ded0C7E333A91699792Fd305fe6";
-        whitelist[2] = "0x9FB8A05b3E4c7e80dAb6CD799bd7A00e28Da23d0";
+        whitelist[1] = "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266";
+        whitelist[2] = "0x2ea3970Ed82D5b30be821FAAD4a731D35964F7dd";
         whitelist[3] = "0xf6dBa02C01AF48Cf926579F77C9f874Ca640D91D";
         count = whitelist.length;
         string memory input = _createJSON();
